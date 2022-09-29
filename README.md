@@ -8,8 +8,10 @@ For this proejct, we are asked to examine the different temperature trends for a
 ### 3 Distinct Differences between June and December 
 
 June Temperature/Precipitation Stastistics Deliverable 1 
+
 <img width="258" alt="Deliverable 1 June" src="https://user-images.githubusercontent.com/107444840/193159227-d73f9317-446c-435e-b7d5-6eb08cf6b613.png">
 
 
 December Temperature/Precipitation Stastistics Deliverable 2
+
 <img width="311" alt="Deliverable 2 December" src="https://user-images.githubusercontent.com/107444840/193159235-6bffad1b-4e87-418e-b9b2-c7ed58f20bc8.png">
